@@ -1,17 +1,26 @@
-## Xin chào! 👋
+## Hi there 👋
 
-Tôi là **Nguyễn Thành An**
+I'm **Nguyễn Thành An**
 
-### Về tôi
-
-- 🎓 Sinh viên Đại học Bách Khoa TP.HCM (HCMUT)
-- 💻 Chuyên ngành: Khoa học Máy tính
-- 📝 Đây là tài khoản phụ của tôi
-
-### Liên hệ
-
-Hãy thoải mái liên hệ với tôi để trao đổi về công nghệ và học tập!
+🎓 Computer Science student at **Ho Chi Minh City University of Technology (HCMUT)**  
+💻 Interested in software development and modern technologies  
+📝 This is my **secondary GitHub account**
 
 ---
 
-**Note:** This is a secondary account | *Đây là tài khoản phụ*
+### 🧠 About Me
+- Currently studying Computer Science at HCMUT  
+- Passionate about learning, building, and improving technical skills  
+- Using this account mainly for practice, experiments, and learning purposes  
+
+---
+
+### 🤝 Connect
+Feel free to reach out if you'd like to talk about technology, studying, or collaboration.
+
+---
+
+![Student](https://img.shields.io/badge/Student-HCMUT-blue)
+![Major](https://img.shields.io/badge/Major-Computer%20Science-success)
+
+*Note: This is a secondary account*
