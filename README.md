@@ -1,16 +1,17 @@
-## Hi there 👋
+## Xin chào! 👋
 
-<!--
-**nguyenthanhan140701/nguyenthanhan140701** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tôi là **Nguyễn Thành An**
 
-Here are some ideas to get you started:
+### Về tôi
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Sinh viên Đại học Bách Khoa TP.HCM (HCMUT)
+- 💻 Chuyên ngành: Khoa học Máy tính
+- 📝 Đây là tài khoản phụ của tôi
+
+### Liên hệ
+
+Hãy thoải mái liên hệ với tôi để trao đổi về công nghệ và học tập!
+
+---
+
+**Note:** This is a secondary account | *Đây là tài khoản phụ*
