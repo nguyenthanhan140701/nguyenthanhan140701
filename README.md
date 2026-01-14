@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm **Will NGuyen**
+I'm **Will Nguyen**
 
 🎓 **Bachelor of Computer Science** — Ho Chi Minh City University of Technology (HCMUT)  
 💻 Interested in software development and modern technologies  
